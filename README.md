@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with a strong f
 
 ## Skills & Expertise
 
-- **Programming Languages:** Python, Java
+- **Programming Languages:** Java, Python
 - **Databases:** SQL, MySQL
 - **Concepts:** Object-Oriented Programming (OOP), Software Testing
 - **Tools & Technologies:** Git, GitHub,Visual Studio Code, Jupyter Notebook
