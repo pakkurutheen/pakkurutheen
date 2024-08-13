@@ -1,6 +1,6 @@
 # Hi, I'm Pakkurutheen S
 
-Welcome to my GitHub profile! I'm a passionate Software Engineer with a strong foundation in Python, Core Java, SQL, Object-Oriented Programming (OOP) concepts, and Manual Testing Methodologies.
+Welcome to my GitHub profile! I'm a passionate Software Engineer with a strong foundation in Java, Python, SQL, Object-Oriented Programming (OOP) concepts, and Manual Testing Methodologies.
 
 ## Skills & Expertise
 
